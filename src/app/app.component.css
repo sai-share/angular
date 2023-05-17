@@ -1,0 +1,36 @@
+.navbar{
+    padding: 25px;
+    background-color:#00008B;
+    
+    
+}
+.site-name{
+    color: white;
+    
+}
+.site-menu{
+    color: white;
+    text-align: left;
+    margin: 0px,10px;
+}
+
+
+*{
+    text-decoration:none;
+    margin: 1px 5px;
+ }
+ .foot{
+    background-color:#00008B;
+    padding:35px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.foot1{
+    text-align: center;
+
+}
+.foot2{
+    text-align: center;
+}
